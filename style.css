@@ -1,0 +1,221 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
+
+body,h1,h2,h3,h4,h5,h6,p{
+     font-family: 'Open Sans', sans-serif;
+}
+
+img{
+    max-width: 100%;
+    margin-right: -52px;
+}
+
+.about-contant {
+    margin-top: 178px;
+}
+
+.about-contant h1{
+
+    padding: 15px 0px;
+}
+ .about-contant p{ 
+
+    font-size: 16px;
+    padding: 10px 0px;
+ }
+
+ .about-contant a{
+     
+    background: #8490ff;
+    color: white;
+ } 
+
+ .aboutcontebt{
+
+    margin-top: 73px;
+ }
+ .aboutcontebt p{
+
+    font-size: 16px;
+    padding: 10px 0px;
+    line-height: 25px; 
+ }
+ .aboutcontebt h1{
+
+    padding: 20px 0px;
+ }
+ .aboutcontebt a{
+     
+    background: #8490ff;
+    color: white;
+ }
+
+ .clintsection{
+     background-color: #8490ff;
+ }
+
+ .app-section{
+     background-color:#f9f9ff ;
+
+ }
+
+ .sectioncard{
+    background-color: #d1d1d579;
+ }
+
+ .contactbar{
+
+   background-color: #d1d1d579;
+
+ }
+
+ .cardsection{
+
+    padding: 24px;
+ }  
+ .cardsection h1{ 
+
+    display: inline-block;
+    padding: 20px 10px;
+    background: #d1d1d154;
+    width: 100px;
+    margin: auto;
+    border-radius: 50%;
+    height: auto;
+ }
+
+ .cardbody { 
+
+ }
+
+ .cardbody ul{
+
+ }
+
+ .cardbody ul li{
+     
+    list-style: none;
+    padding: 10px;
+    font-size: 19px;
+ }
+
+ .bgsection{ 
+     
+    background: #ffffff;
+    box-shadow: 1px 1px 8px 2px;
+ }
+
+
+ .buttonbar{
+    background-color: #8490ff;
+
+ }
+
+ .itamcard {
+   box-shadow: 1px 1px 9px -1px;
+
+   margin: 0px 20px;
+   padding: 40px 0px;
+   background: white;
+ }  
+ .itamcard h1{
+
+    font-size: 22px;
+    padding: 14px; 
+ } 
+
+ .itamcard h2{
+
+    background: #d1d1d154;
+    width: 87px;
+    padding: 19px;
+    margin: auto;
+    border-radius: 50%;
+ }
+ 
+
+ .itamcard h4{
+    
+    font-size: 17px;
+    padding-bottom: 16px;
+ }
+ .itamcard p{
+  
+    font-size: 20px;
+    padding: 4px 0px;
+ }
+
+ .buttondiv{
+
+    /*! box-shadow: 1px 1px 1px 1px; */
+ }
+
+ .buttondiv a{
+ 
+    box-shadow: 0px 0px 8px 1px;
+ }
+
+ .itamcard2{
+
+    box-shadow: 1px 1px 6px -1px;
+    padding: 20px 0px;
+ }
+
+ .itamcard2 h1{
+
+    font-size: 22px;
+    padding-top: 10px; 
+ }
+
+ .itamcard2 h4{
+
+    font-size: 15px;
+ }
+
+
+ .itamcard2 img{
+
+ }
+
+ .itamcard2 p{
+ 
+    padding: 10px 2px;
+ }
+
+ .imgdiv{
+    
+    width: 107px;
+ }
+
+
+ .textariyabar{
+   height: 180px; 
+ }
+
+
+ .contactform{
+    
+    padding: 39px 44px;
+    box-shadow: 1px 1px 9px -1px;
+ }
+
+ .addressbar { 
+
+    padding: 230px 23px;
+ }
+
+ .addressbar h3{
+
+ }
+
+ .addressbar h6{
+
+ }
+
+ .fotter{
+    background-color: #04091e;
+ }
+
+ 
+ .imgbar img{
+    width: 150px;
+ }
